@@ -10,3 +10,5 @@ The course consists of three modules. These modules intends to provide an introd
 
 *keywords:* Causality. Causal inference.  Causal graphs. Potential outcomes. Causal inference methods. Structural Causal Models. Interventions. *Do*-calculus. Counterfactuals.  
 
+### ii. content   
+The course will try to address the following issue: why we do what we do, when we are running a causal study.   
