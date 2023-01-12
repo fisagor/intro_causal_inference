@@ -1,1 +1,3 @@
-# intro_causal_inference
+# introduction to causal inference
+===============
+**instructor:** direnç erşahin
