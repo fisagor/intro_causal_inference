@@ -12,6 +12,6 @@ The course consists of three modules. These modules intends to provide an introd
 ### ii. content   
 The course will try to address the following issue: why we do what we do, when we are running a causal study.   
 
-#### iii. course plan   
+### iii. course plan   
 The meetings will be held online, via zoom. Discussions will be primarily in Turkish. However, since all the material is in English, fluency in both languages is required. 
 
