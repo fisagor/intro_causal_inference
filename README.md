@@ -6,3 +6,5 @@
 
 ## i.aim   
 
+The course consists of three modules. These modules intends to provide an introduction to the basics of causality, which have long been a primary issue of interest for both philosophy and science. Recent developments on the topic paved the way for a wider utilisation of causal inference in various fields, including machine learning, data science, economics, and epidemiology. By implementing and interpreting causal inference methods, we will address a practical understanding of causal analysis.  
+
