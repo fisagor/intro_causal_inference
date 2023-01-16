@@ -9,7 +9,7 @@
 ### i.aim   
 The course consists of three modules. These modules intends to provide an introduction to the basics of causality, which have long been a primary issue of interest for both philosophy and science. Recent developments on the topic paved the way for a wider utilisation of causal inference in various fields, including machine learning, data science, economics, and epidemiology. By implementing and interpreting causal inference methods, we will try to develop a practical understanding of causal analysis.  
 
-*keywords:* Causality. Causal inference.  Causal graphs. Potential outcomes. Causal inference methods. Structural Causal Models. Interventions. *Do*-calculus. Counterfactuals.  
+*keywords:* Causality. Causal inference. Potential outcomes. Bayesian Networks. Structural Causal Models. Interventions. *Do*-calculus. Counterfactuals.  
 
 ### ii. content   
 The course will try to address the following issue: why we do what we do, when we are running a causal study. In this context, we will discuss why and how questions ?? causal inference methods. an overall understanding of the topic, which, I hope, will help you to find out how attendants can utilise causal inference methods in their fields.     
@@ -22,9 +22,9 @@ The meetings will be held online, via zoom. Discussions will be primarily in Tur
 | Week ## | Meeting date | Readings |
 | :------------ | -------------- | :-------------------------------|
 | *Module I - 3 weeks* |
-| Week 01 | 06 February | **[01]** Williamson, T. (2018). "Model-Building" <br> **[02]** Illari, P., & Russo, F. (2014). "Prelude to Causality" <br> **[03]** Beebee, H. (2014). "Causation" |
-| Week 02 | 13 February | **[01]** Neal, B. (2020). "1 Motivation: Why might you care" <br> **[02]** Pearl, J. (2016). "Probability and Statistics" <br> **[03]** Williamson, J. (2008). "Philosophies of Probability"|  
-| Week 03 | 20 February | **[01]** Pearl, J. (2018). "The Ladder of Causation" <br> **[02]** Darwische, A. (2010). "Bayesian Networks" |
+| Week 01 | 06 February | Model-building. Causality. <br> **[01]** Williamson, T. (2018). Model-Building. <br> **[02]** Illari, P., & Russo, F. (2014). Prelude to Causality. <br> **[03]** Beebee, H. (2014). Causation. |
+| Week 02 | 13 February | Probability: Frequentism vs. Bayesianism. Statistical inference. Causal inference. <br> **[01]** Neal, B. (2020). Motivation: Why  You Might Care. <br> **[02]** Koller, D. & Friedman, N. (2009). Probability Theory. <br> **[03]** Pearl, J., Glymour, M., & Jewell, N. P. (2016). Probability and Statistics.|  
+| Week 03 | 20 February | Graph Theory. Bayesian Networks. Directed acyclic graphs. <br> **[01]** Pearl, J. (2018). The Ladder of Causation. <br> **[02]** Darwische, A. (2010). Bayesian Networks. |
 | *Module II - 4 weeks* |
 | Week 04 | 27 February | **[01]** Pearl, J. (2018). "From Evidence to Causes: Reverend Bayes Meets Mr. Holmes" <br> **[02]** Neal, B. (2020). "3 The Flow of Association and Causation in Graphs" |
 | Week 05 | 06 March | **[01]** Pearl, J. (2018). "Confounding and Deconfounding: Or, Slaying the Lurking Variable" <br> **[02]** Pearl, J. (2009). "The *d*-Separation Criterion" |
