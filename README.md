@@ -33,4 +33,4 @@ The meetings will be held online, via zoom. Discussions will be primarily in Tur
 | *Module III - 3 weeks* |
 | Week 08 | 27 March | *Do*-Calculus. <br> **[01]** Pearl, J. (2019). On the Interpretation of *do*(*x*). |
 | Week 09 | 03 April | Counterfactuals. <br> **[01]** Pearl, J. (2018). Counterfactuals: Mining Worlds That Could Have Been. <br> **[02]** Williamson, T., (2009). Knowledge of Counterfactuals. |
-| Week 10 | 10 April | Wrapping things up. <br> **[01]** Pearl, J. (2018). The 7 Tools of Causal Inference with Reflections on Machine Learning. |
+| Week 10 | 10 April | Final remarks. Wrapping things up. <br> **[01]** Pearl, J. (2019). The 7 Tools of Causal Inference with Reflections on Machine Learning. |
