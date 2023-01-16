@@ -29,8 +29,8 @@ The meetings will be held online, via zoom. Discussions will be primarily in Tur
 | Week 04 | 27 February | Causal Models. Reichenbach's common cause principle. Selection bias. <br> **[01]** Pearl, J. (2018). From Evidence to Causes: Reverend Bayes Meets Mr. Holmes. <br> **[02]** Neal, B. (2020). The Flow of Association and Causation in Graphs. |
 | Week 05 | 06 March | Confounding. *d*-separation. <br> **[01]** Pearl, J. (2018). Confounding and Deconfounding: Or, Slaying the Lurking Variable. <br> **[02]** Pearl, J. (2009). The *d*-Separation Criterion. |
 | Week 06 | 13 March | Randomized trials. Observational studies. Backdoor path criterion. <br> **[01]** <br> **[02]** |
-| Week 07 | 20 March | **[01]** Pearl, J. (2016). "The Effects of Interventions"  <br> **[02]** <br> **[03]** |
+| Week 07 | 20 March | Interventions. Front-door adjustment. Controls. <br> **[01]** Pearl, J. (2018). Beyond Adjustment: The Conquest of Mount Intervention  <br> **[02]** Cinelli, C., Forney, A., & Pearl, J. (2021). A Crash Course in Good and Bad Controls. |
 | *Module III - 3 weeks* |
-| Week 08 | 27 March | **[01]** Pearl, J. (2018). "Counterfactuals: Mining Worlds that could have been"<br> **[02]** |
-| Week 09 | 03 April | **[01]** <br> **[02]** <br> **[03]** |
-| Week 10 | 10 April | **[01]** Pearl, J. (2018). The 7 Tools of Causal Inference with Reflections on Machine Learning |
+| Week 08 | 27 March | *Do*-Calculus. <br> **[01]** Pearl, J. (2019). On the Interpretation of *do*(*x*). |
+| Week 09 | 03 April | **[01]** Pearl, J. (2018). "Counterfactuals: Mining Worlds That Could Have Been. <br> **[02]** |
+| Week 10 | 10 April | **[01]** Pearl, J. (2018). The 7 Tools of Causal Inference with Reflections on Machine Learning. |
