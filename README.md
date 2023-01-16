@@ -27,7 +27,7 @@ The meetings will be held online, via zoom. Discussions will be primarily in Tur
 | Week 03 | 20 February | Graph Theory. Bayesian Networks. Directed acyclic graphs. <br> **[01]** Pearl, J. (2018). The Ladder of Causation. <br> **[02]** Darwische, A. (2010). Bayesian Networks. |
 | *Module II - 4 weeks* |
 | Week 04 | 27 February | Causal Models. Reichenbach's common cause principle. Selection bias. <br> **[01]** Pearl, J. (2018). From Evidence to Causes: Reverend Bayes Meets Mr. Holmes. <br> **[02]** Neal, B. (2020). The Flow of Association and Causation in Graphs. |
-| Week 05 | 06 March | Confounding. *d*-separation. **[01]** Pearl, J. (2018). Confounding and Deconfounding: Or, Slaying the Lurking Variable. <br> **[02]** Pearl, J. (2009). The *d*-Separation Criterion. |
+| Week 05 | 06 March | Confounding. *d*-separation. <br> **[01]** Pearl, J. (2018). Confounding and Deconfounding: Or, Slaying the Lurking Variable. <br> **[02]** Pearl, J. (2009). The *d*-Separation Criterion. |
 | Week 06 | 13 March | **[01]** <br> **[02]** <br> **[03]** |
 | Week 07 | 20 March | **[01]** Pearl, J. (2016). "The Effects of Interventions"  <br> **[02]** <br> **[03]** |
 | *Module III - 3 weeks* |
