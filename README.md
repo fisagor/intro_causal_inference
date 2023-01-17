@@ -7,16 +7,15 @@
 **prerequisites:** no distinct prerequisites other than a genuine interest on the subject.   
 
 ### i.aim   
-Causality has long been a primary issue of interest for both philosophy and science. Recent developments on the topic paved the way for a wider utilisation of causal inference methods in various fields, including machine learning, economics, and epidemiology.
+Causality has long been a primary issue of interest for both philosophy and science. Recent developments on the topic paved the way for a wider utilisation of causal inference methods in various fields, including machine learning, economics, and epidemiology. This lecture formation intends to provide an introduction to the basics of causality. By implementing and interpreting causal inference methods, we will try to develop an interdisciplinary and practical understanding of causal analysis.
 
 *keywords:* Causality. Causal inference. Potential outcomes. Bayesian Networks. Structural Causal Models. Interventions. *Do*-calculus. Counterfactuals.  
 
 ### ii. content   
-This is a less quantitative version of a 14-week course. The lecture series consists of three modules, which aim to address the following issue: why we do what we do, when we are deriving a causal inference. 
-In this context, we will discuss why and how questions ?? causal inference methods. an overall understanding of the topic, which, I hope, will help you to find out how attendants can utilise causal inference methods in their fields.     
+This is a less quantitative version of a 14-week course. The lecture series consists of three modules, which aim to address the following issue: why we do what we do, when we are deriving a causal inference. In this context, we will employ why and how questions to probe different causal inference frameworks and methods. 
 
 ### iii. course plan   
-The meetings will be held online, via zoom. Discussions will be primarily in Turkish. However, since all the material is in English, fluency in both languages is required. I will provide the readings on a weekly basis. There will be some weekly assignments 
+The meetings will be held online, via zoom. Discussions will be primarily in Turkish. However, since all the material is in English, fluency in both languages is required. I will provide the readings on a weekly basis. Some weekly assignments will be issued to implement our findings. 
 
 ### iv. course schedule  
 
