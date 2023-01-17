@@ -15,7 +15,7 @@ Causality has long been a primary issue of interest for both philosophy and scie
 This is a less quantitative version of a 14-week course. The lecture series consists of three modules. These modules address the same issue at different levels: why we do what we do, when we are deriving a causal inference. In this context, we will employ why and how questions to probe different causal inference frameworks and methods. 
 
 ### iii. course plan   
-The meetings will be held online, via zoom. Discussions will be primarily in Turkish. However, since all the material is in English, fluency in both languages is required. I will provide the readings on a weekly basis. Some weekly assignments will be offered to implement our findings. 
+The meetings will be held online, via zoom. Discussions will be primarily in Turkish. However, since all the material is in English, fluency in both languages is required. I will provide the readings on a weekly basis. A number of weekly assignments will be offered to implement our findings. 
 
 ### iv. schedule  
 
