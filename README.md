@@ -3,7 +3,7 @@
 *İzlencenin pdf versiyonu [burada](ICI_syllabus.pdf). Eğer derse katılmak isterseniz direnc.ersahin@tedu.edu.tr'a ilginizi açıklayan kısa bir paragrafı içeren bir e-posta atmanızı rica ediyorum. İlk sürümü ufak bir grupla yürütmek arzusundayım. Bu nedenle, eklediğiniz paragraflar üzerinden bir seçim yapmak durumunda kalabilirim.*   
 
 **instructor:** direnç erşahin  
-**meetings:** online via zoom. Monday evenings - 19:00 to 21:45         
+**meetings:** online via zoom. Monday evenings - 19:00 to 21:45 Turkey time (CET 17:00 to 19:45)        
 **prerequisites:** no distinct prerequisites other than a genuine interest on the subject.   
 
 ### i.aim   
@@ -12,7 +12,7 @@ Causality has long been a primary issue of interest for both philosophy and scie
 *keywords:* Causality. Causal inference. Potential outcomes. Bayesian Networks. Structural Causal Models. Interventions. *Do*-calculus. Counterfactuals.  
 
 ### ii. content   
-This is a less quantitative version of a 14-week course. The lecture series consists of three modules, which aim to address the following issue: why we do what we do, when we are deriving a causal inference. In this context, we will employ why and how questions to probe different causal inference frameworks and methods. 
+This is a less quantitative version of a 14-week course. The lecture series consists of three modules. These modules address the same issue at different levels: why we do what we do, when we are deriving a causal inference. In this context, we will employ why and how questions to probe different causal inference frameworks and methods. 
 
 ### iii. course plan   
 The meetings will be held online, via zoom. Discussions will be primarily in Turkish. However, since all the material is in English, fluency in both languages is required. I will provide the readings on a weekly basis. Some weekly assignments will be offered to implement our findings. 
