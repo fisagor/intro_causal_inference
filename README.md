@@ -17,7 +17,7 @@ This is a less quantitative version of a 14-week course. The lecture series cons
 ### iii. course plan   
 The meetings will be held online, via zoom. Discussions will be primarily in Turkish. However, since all the material is in English, fluency in both languages is required. I will provide the readings on a weekly basis. Some weekly assignments will be offered to implement our findings. 
 
-### iv. course schedule  
+### iv. schedule  
 
 | Week ## | Meeting date | Readings |
 | :------------ | -------------- | :-------------------------------|
