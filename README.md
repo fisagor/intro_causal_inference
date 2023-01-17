@@ -7,7 +7,7 @@
 **prerequisites:** no distinct prerequisites other than a genuine interest on the subject.   
 
 ### i.aim   
-The course consists of three modules. These modules intends to provide an introduction to the basics of causality, which have long been a primary issue of interest for both philosophy and science. Recent developments on the topic paved the way for a wider utilisation of causal inference in various fields, including machine learning, data science, economics, and epidemiology. By implementing and interpreting causal inference methods, we will try to develop a practical understanding of causal analysis.  
+Causality has long been a primary issue of interest for both philosophy and science. Recent developments on the topic paved the way for a wider utilisation of causal inference methods in various fields, including machine learning, economics, and epidemiology.
 
 *keywords:* Causality. Causal inference. Potential outcomes. Bayesian Networks. Structural Causal Models. Interventions. *Do*-calculus. Counterfactuals.  
 
