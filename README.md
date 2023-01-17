@@ -12,7 +12,8 @@ The course consists of three modules. These modules intends to provide an introd
 *keywords:* Causality. Causal inference. Potential outcomes. Bayesian Networks. Structural Causal Models. Interventions. *Do*-calculus. Counterfactuals.  
 
 ### ii. content   
-The course will try to address the following issue: why we do what we do, when we are running a causal study. In this context, we will discuss why and how questions ?? causal inference methods. an overall understanding of the topic, which, I hope, will help you to find out how attendants can utilise causal inference methods in their fields.     
+This is a less-technical version of a 14-week course. The lecture series consists of three modules, which aims to address the following issue: why we do what we do, when we are running a causal study.
+In this context, we will discuss why and how questions ?? causal inference methods. an overall understanding of the topic, which, I hope, will help you to find out how attendants can utilise causal inference methods in their fields.     
 
 ### iii. course plan   
 The meetings will be held online, via zoom. Discussions will be primarily in Turkish. However, since all the material is in English, fluency in both languages is required. I will provide the readings on a weekly basis. I also plan to record the meetings for those missing any week. 
