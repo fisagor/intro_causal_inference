@@ -12,7 +12,7 @@ Causality has long been a primary issue of interest for both philosophy and scie
 *keywords:* Causality. Causal inference. Potential outcomes. Bayesian Networks. Structural Causal Models. Interventions. *Do*-calculus. Counterfactuals.  
 
 ### ii. content   
-This is a less quantitative, seminar version of a 14-week course. The lecture series consists of three modules. These modules address the same issue at different levels: why we do what we do, when we are deriving a causal inference. In this context, we will employ why and how questions to probe different causal inference frameworks and methods. 
+This is a less quantitative, seminar version of a 14-week course. The lecture series is composed of three modules. These modules address the same issue at different levels: why we do what we do, when we are deriving a causal inference. In this context, we will employ why and how questions to probe different causal inference frameworks and methods. 
 
 ### iii. course plan   
 The meetings will be held online, via zoom. Discussions will be primarily in Turkish. However, since all the material is in English, fluency in both languages is required. I will provide the readings on a weekly basis. I will also offer a number of weekly assignments to implement our findings. 
