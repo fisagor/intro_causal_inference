@@ -16,7 +16,7 @@ This is a less-technical version of a 14-week course. The lecture series consist
 In this context, we will discuss why and how questions ?? causal inference methods. an overall understanding of the topic, which, I hope, will help you to find out how attendants can utilise causal inference methods in their fields.     
 
 ### iii. course plan   
-The meetings will be held online, via zoom. Discussions will be primarily in Turkish. However, since all the material is in English, fluency in both languages is required. I will provide the readings on a weekly basis. I also plan to record the meetings for those missing any week. 
+The meetings will be held online, via zoom. Discussions will be primarily in Turkish. However, since all the material is in English, fluency in both languages is required. I will provide the readings on a weekly basis. There will be some weekly assignments 
 
 ### iv. course schedule  
 
