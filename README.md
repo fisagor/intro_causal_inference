@@ -1,6 +1,6 @@
 # Introduction to Causal Inference
 
-*İzlencenin pdf versiyonu [burada](ICI_syllabus.pdf). Eğer derse katılmak isterseniz direnc.ersahin@tedu.edu.tr'a ilginizi açıklayan kısa bir paragrafı içeren bir e-posta atmanızı rica ediyorum.*   
+*İzlencenin pdf versiyonu [burada](ICI_syllabus.pdf). Eğer derse katılmak isterseniz direnc.ersahin@tedu.edu.tr'a ilginizi açıklayan kısa bir paragrafı içeren bir e-posta atmanızı rica ediyorum. İlk sürümü ufak bir grupla yürütmek arzusundayım. Bu nedenle, eklediğiniz paragraflar üzerinden bir seçim yapmak durumunda kalabilirim.*   
 
 **instructor:** direnç erşahin  
 **meetings:** online via zoom. Monday evenings - 19:00 to 21:45         
