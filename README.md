@@ -13,10 +13,10 @@ Causality has long been a primary issue of interest for both philosophy and scie
 
 ### ii. content   
 This is a less quantitative, seminar version of a 14-week course. The 10-week lecture series is composed of three modules. These modules address the same issue at different levels: why we do what we do, when we are deriving a causal inference. In this context, we will employ why and how questions to probe different causal inference frameworks and methods. <br>
-If you would like to take a bite of the content, you can check Kevin Hartnett's exciting Q&A with Judea Pearl here: https://www.quantamagazine.org/to-build-truly-intelligent-machines-teach-them-cause-and-effect-20180515/
+If you would like to take a bite of the seminar content, Kevin Hartnett's exciting Q&A with Judea Pearl might be much helpful: https://www.quantamagazine.org/to-build-truly-intelligent-machines-teach-them-cause-and-effect-20180515/
 
 ### iii. course plan   
-The meetings will be held online, via zoom. Discussions will be primarily in Turkish. However, since all the material is in English, fluency in both languages is required. Judea Pearl and Dana Mackenzie's highly influential work, *The Book of Why*, will be the main text we will follow. For most of the weeks, we will read a chapter of this book. Some academic texts, articles and book sections, will accompany to these chapters to enrich discussion. I will provide the readings on a weekly basis. I will also offer a number of weekly assignments to implement our findings. 
+The meetings will be held online, via zoom. Discussions will be primarily in Turkish. However, since all the material is in English, fluency in both languages is required. Judea Pearl and Dana Mackenzie's highly influential work, *The Book of Why*, will be the main text we will follow. For most of the weeks, we will read a chapter of this book. Some academic texts, articles and book sections, will accompany to these chapters help us to ground our discussion. I will provide the readings on a weekly basis. I will also offer a number of weekly assignments to implement our findings. 
 
 ### iv. schedule  
 
