@@ -6,7 +6,7 @@
 **meetings:** online via zoom. Monday evenings - 19:00 to 21:45 Turkey time (CET 17:00 to 19:45)        
 **prerequisites:** no distinct prerequisites other than a genuine interest on the subject.   
 
-### i.aim   
+### i. aim   
 Causality has long been a primary issue of interest for both philosophy and science. Recent developments on the topic paved the way for a wider utilisation of causal inference methods in various fields, including machine learning, economics, and epidemiology. This lecture formation intends to provide an introduction to the basics of causality. By implementing and interpreting causal inference methods, we will try to develop an interdisciplinary and practical understanding of causal analysis.
 
 *keywords:* Causality. Causal inference. Potential outcomes. Bayesian Networks. Structural Causal Models. Interventions. *Do*-calculus. Counterfactuals.  
